@@ -26,7 +26,7 @@ namespace projectsnew
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("....");
+			Console.WriteLine ("help me github.com");
 		}
 	}
 }
